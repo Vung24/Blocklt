@@ -1,0 +1,982 @@
+fileFormatVersion: 2
+guid: 87569ba88a3347f45b355a134399a74a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_0"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 117
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269f35dc4cba42f488b3a84b5fab6817
+      internalID: -353319133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_1"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 117
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b4da372b763074fb2bf8fa6fd96d13
+      internalID: -1847686491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_2"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 116
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d722958b685af545b6bcaf3a9c9d673
+      internalID: 1886789249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_3"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 116
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d2b55df73b2b44f9bed3f05026c02a
+      internalID: -1647693927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_4"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 116
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fea3c7758807d944b2c0ce99114fbb5
+      internalID: 1528817948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_5"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 116
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367876054c6f94944b12e36c7195dfd3
+      internalID: 1285028256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_6"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 116
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8656ae9c7a78314e8f61cc17a68d770
+      internalID: -644714050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_7"
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 116
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359cc6c83f6a61947bf52e39b5e44b38
+      internalID: -962941124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_8"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a1c6c4a3351fe4e9f69f2b2da8e617
+      internalID: 1411914887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_9"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 90
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a59a8ffa0260c34c8e13899d4ec2c3d
+      internalID: -573791615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_10"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 89
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d514f66a9c0cca748a8fc11d734f14b4
+      internalID: 597985423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_11"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 89
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c27314fd49ab484dbab82459221b96e
+      internalID: -781037129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_12"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 89
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d5ebff18eb3f244bedc8d4c5427ea3
+      internalID: 798170078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_13"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 89
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a391522f2d1fc24baccddb5628904a9
+      internalID: -2034423570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_14"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 89
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9ff1525a05314da3999257db1c615
+      internalID: -818374592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_15"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 89
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27886ab282fef2f438c79a3bb44f8a20
+      internalID: 490628974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_16"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bb460a25296964eb806906cdb7fddc
+      internalID: 1872989400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_17"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea5d44b3320bea4b9b49c7e517ff965
+      internalID: -2134048851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_18"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 63
+        width: 25
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f301ecee65697024583ea9d6cb1c01f0
+      internalID: 540333800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_19"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 63
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dad383b4733374493309e8f8b1b207
+      internalID: 1793451741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_20"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 63
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeba774ded262784b903af7e79480d33
+      internalID: 2116887228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_21"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 63
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1401c67e5e99464ab76047c444467f9
+      internalID: 1888193962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_22"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 25
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb35510ebc39244f80d579a379ebd98
+      internalID: -969016441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_23"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 63
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935ea897cfca6b740b8e8a8c8a7b7c27
+      internalID: -139923879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_24"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76f1e0479ccf6d4daba0d87ffb0da4c
+      internalID: -1978859403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_25"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 37
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da4683141475e04fa7a826cfa5613c3
+      internalID: 890337882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_26"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 37
+        width: 25
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1274aae5fbcedfc4fba7390e1a5d24f9
+      internalID: -1677742608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_27"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 37
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d4067a87989474d9e0c5737ed6b4d9
+      internalID: 385078146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_28"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47dea63e2d27494dabe326fdcfa4e3c
+      internalID: -750281895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_29"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 37
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209800a8e1e08084e97684f9f53c13e2
+      internalID: -537375235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_30"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 37
+        width: 25
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8c4d266f3201149bd70a2283cc63b0
+      internalID: -1574073210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_31"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 37
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783479c57665177498730922056a8135
+      internalID: -701373423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_38"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977b5aa5f09f0e24084654f4cc71a134
+      internalID: -1825690250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_39"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ccdbc2450094b428dc1fcb27bb175c
+      internalID: 1449941485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_40"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258b7b09dae14a45855376386c59800
+      internalID: -386115369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_41"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fc2043106d40f409892f2b614d7fa3
+      internalID: 1407697730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_42"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aefcb44f4b4ce49b43a12408bdfc24
+      internalID: 1197646367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troll-(c\u1EAFt-vi\u1EC1n)_43"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba11250cae312b5438974d525796328e
+      internalID: 1304939375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Troll-(c\u1EAFt-vi\u1EC1n)_0": -353319133
+      "Troll-(c\u1EAFt-vi\u1EC1n)_1": -1847686491
+      "Troll-(c\u1EAFt-vi\u1EC1n)_10": 597985423
+      "Troll-(c\u1EAFt-vi\u1EC1n)_11": -781037129
+      "Troll-(c\u1EAFt-vi\u1EC1n)_12": 798170078
+      "Troll-(c\u1EAFt-vi\u1EC1n)_13": -2034423570
+      "Troll-(c\u1EAFt-vi\u1EC1n)_14": -818374592
+      "Troll-(c\u1EAFt-vi\u1EC1n)_15": 490628974
+      "Troll-(c\u1EAFt-vi\u1EC1n)_16": 1872989400
+      "Troll-(c\u1EAFt-vi\u1EC1n)_17": -2134048851
+      "Troll-(c\u1EAFt-vi\u1EC1n)_18": 540333800
+      "Troll-(c\u1EAFt-vi\u1EC1n)_19": 1793451741
+      "Troll-(c\u1EAFt-vi\u1EC1n)_2": 1886789249
+      "Troll-(c\u1EAFt-vi\u1EC1n)_20": 2116887228
+      "Troll-(c\u1EAFt-vi\u1EC1n)_21": 1888193962
+      "Troll-(c\u1EAFt-vi\u1EC1n)_22": -969016441
+      "Troll-(c\u1EAFt-vi\u1EC1n)_23": -139923879
+      "Troll-(c\u1EAFt-vi\u1EC1n)_24": -1978859403
+      "Troll-(c\u1EAFt-vi\u1EC1n)_25": 890337882
+      "Troll-(c\u1EAFt-vi\u1EC1n)_26": -1677742608
+      "Troll-(c\u1EAFt-vi\u1EC1n)_27": 385078146
+      "Troll-(c\u1EAFt-vi\u1EC1n)_28": -750281895
+      "Troll-(c\u1EAFt-vi\u1EC1n)_29": -537375235
+      "Troll-(c\u1EAFt-vi\u1EC1n)_3": -1647693927
+      "Troll-(c\u1EAFt-vi\u1EC1n)_30": -1574073210
+      "Troll-(c\u1EAFt-vi\u1EC1n)_31": -701373423
+      "Troll-(c\u1EAFt-vi\u1EC1n)_32": 251623581
+      "Troll-(c\u1EAFt-vi\u1EC1n)_33": -1194108415
+      "Troll-(c\u1EAFt-vi\u1EC1n)_34": 198505827
+      "Troll-(c\u1EAFt-vi\u1EC1n)_35": 1295643843
+      "Troll-(c\u1EAFt-vi\u1EC1n)_36": -135803860
+      "Troll-(c\u1EAFt-vi\u1EC1n)_37": 1860715390
+      "Troll-(c\u1EAFt-vi\u1EC1n)_38": -1825690250
+      "Troll-(c\u1EAFt-vi\u1EC1n)_39": 1449941485
+      "Troll-(c\u1EAFt-vi\u1EC1n)_4": 1528817948
+      "Troll-(c\u1EAFt-vi\u1EC1n)_40": -386115369
+      "Troll-(c\u1EAFt-vi\u1EC1n)_41": 1407697730
+      "Troll-(c\u1EAFt-vi\u1EC1n)_42": 1197646367
+      "Troll-(c\u1EAFt-vi\u1EC1n)_43": 1304939375
+      "Troll-(c\u1EAFt-vi\u1EC1n)_5": 1285028256
+      "Troll-(c\u1EAFt-vi\u1EC1n)_6": -644714050
+      "Troll-(c\u1EAFt-vi\u1EC1n)_7": -962941124
+      "Troll-(c\u1EAFt-vi\u1EC1n)_8": 1411914887
+      "Troll-(c\u1EAFt-vi\u1EC1n)_9": -573791615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2450 @@
+fileFormatVersion: 2
+guid: 5e1eaa1cb7cac0444839140f45252adf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_0"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 612
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b5ef5196f7d244e9f63b8fa9897544
+      internalID: -1991603469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_1"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 672
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe182de1adca9fa4e8dd50409de9af2c
+      internalID: -505431178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_2"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 612
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2faba1bf066764aaaa8cbcf8aa55c7
+      internalID: -663132315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_3"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 672
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96754006b71c66a4db64dc7b8ca2ccf1
+      internalID: -1404689881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_4"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 619
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0372d2d7e87dc3d479d0a847a35705b7
+      internalID: -260284409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_5"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 619
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbea79360d7dd448aad082c7dca6187
+      internalID: 243136116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_6"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 619
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f48bada8bce29543a60f22c1fc6319b
+      internalID: -611153066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_7"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 619
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59aafb7140a0b14b8e05c397c606578
+      internalID: 1125005738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_8"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 619
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0fb90bd45f5e54ea971b72801d5219
+      internalID: -145124783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_9"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 619
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83afcc440cc5ce409f1733ef1f2ef6c
+      internalID: 174307088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_10"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 613
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d41ff512db208459122d85ed6037bb
+      internalID: -371427929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_11"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 553
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f473bc601028a46802509dba178654
+      internalID: -2029046913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_12"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 553
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf5c37405a645f41ad3bb343846aa9d
+      internalID: 485762461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_13"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 560
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076d08a2dfe38474787bb15eb1869d52
+      internalID: -15766515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_14"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 560
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9510d8d655a0e41a76bc4c6b2e0d43
+      internalID: 301662324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_15"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 560
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a186bc8da3b382428624afcebf7dc9f
+      internalID: 854412972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_16"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 560
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2898b0af2673c4fa5a9da28b683c6a
+      internalID: -1510623288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_17"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 560
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eff9fbf8a0aa0648b4416f0cd46b565
+      internalID: -1707710141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_18"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 560
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efb25db451ebf24ab21fb7afec2587e
+      internalID: -1734297751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_19"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5b939022eb1e4479bf41c58165a70e
+      internalID: 413424894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_20"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 494
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7edc0421e819e4f816b152d1453af5
+      internalID: -2096060998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_21"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 494
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c439e6586ec0fd46befb7068b793e31
+      internalID: 1624224467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_22"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 501
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4eed6b78b24444e99cb688449b70d5
+      internalID: -1899816057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_23"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 501
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0872cf5a8b3298d489860d05db1f42f1
+      internalID: 1364970237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_24"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 494
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182dee87b4ce0e46b3695bbbca32f58
+      internalID: 1644062906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_25"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 501
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89c7ad0a8a94d948a04404ddc559f3a
+      internalID: -467708903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_26"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 501
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed65c7f0fdedcbc46852d1b5bdcfb268
+      internalID: 743506620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_27"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 501
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1bcf639139e634bab06c22f2c3374f
+      internalID: -462139089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_28"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 441
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc68d2bd4be225f45b2fb7b4e1209275
+      internalID: 1672820600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_29"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 495
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22826074ca8eefc4ea8602e5feedd79c
+      internalID: 1796904991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_30"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 434
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3842a2475eb4f2f4e8ea8eea11330cbb
+      internalID: 108821333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_31"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 434
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f22ad5b9d9d23459d4f385f630571e
+      internalID: 1884959925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_32"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 441
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16a1ccf9912ccd418b374698dbe1dae
+      internalID: -16081304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_33"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 441
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3be4111e7c4ca4e8b6ef748d71ba45
+      internalID: 1013093821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_34"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 441
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5f50a0d9188b046859e224d488658c
+      internalID: 1832285800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_35"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 441
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ca18a044a10be489ac75062c82eca3
+      internalID: -1282203474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_36"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 441
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b20444f86d63f4c921d82b69f9b47f
+      internalID: 1689927311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_37"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 379
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd5d023dc9b1104b97d0121c89a9ec2
+      internalID: 511948624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_38"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 379
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b37040e8d595946ba128aa32d4878b
+      internalID: 1784696039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_39"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 380
+        width: 19
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7d1b4cf0360d449b87e807a33d5ec2
+      internalID: -1208539394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_40"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 386
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7999c47b6b20ad0478eab42bed753c5c
+      internalID: 1368728632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_41"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 386
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac36f267aa159af4598dc58b42ad5d02
+      internalID: 1500620317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_42"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 386
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f77696affe3aa748b2e181e2d730689
+      internalID: 14131568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_43"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 386
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e1af16646dadd4d8eb439717156bf4
+      internalID: 619500185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_44"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 386
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c48fee58686e041b0a72797a3e355c
+      internalID: -1175651952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_45"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 317
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5698340c7c621b04591bd260ec38b6fd
+      internalID: -869590479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_46"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 317
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a2727e1ed25f94dbaac515fe761436
+      internalID: -1589811363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_47"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 317
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108ff2c754f2d664a9e2ab0434ad0cbe
+      internalID: -1078231991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_48"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 317
+        width: 19
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709682a66c968e74999a7487372cc686
+      internalID: 170473875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_49"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 324
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1d6fd4485be4546baa6ac8e728ad41
+      internalID: 702013514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_50"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 269
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7b5c4456ee1a544a055257498d9fc0
+      internalID: -1175673493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_51"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 318
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d41ce39cf173d4fb337eff5bb9db2a
+      internalID: -1228766669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_52"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 324
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff3df47f5fe0a246b00a066864b2e7f
+      internalID: 1848844153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_53"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 324
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ea82eea46cce4895a8af0dec32261
+      internalID: 249169357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_54"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 317
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695ac2f3dfc54e14186b2ba66dbbbcff
+      internalID: -1862283624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_55"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 262
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a4a57247c124248815b1855bb84d03
+      internalID: -1083883009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_56"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 262
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd9e4e71f78fd438a9d2e73d27e3db
+      internalID: 838156648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_57"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 269
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402ffa85a50e84f469ceff21e9048f6c
+      internalID: -1886208354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_58"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 263
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb3a4df245e5984da2f6a017c1cad35
+      internalID: -573159436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_59"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 269
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcff4675ba1d1d40aef61334c288af6
+      internalID: 1882841171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_60"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 269
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018359afeb1b74247a8bc9db43e41141
+      internalID: 2123825353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_61"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 269
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d04045d988eeb42ae745f046099e69
+      internalID: -477992323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_62"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09c1d00fb1bbb542b268d89b59a0f2a
+      internalID: -1651075225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_63"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 213
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb181bd7e185be4aa1f63ec6d333928
+      internalID: -194955305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_64"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 214
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bcb428b60b74f488ff2e0903659756
+      internalID: 1568585922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_65"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 220
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2819d221911775d41b52816d3768bce9
+      internalID: -761603603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_66"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 220
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5274fda26d5db43469c1f2490c734433
+      internalID: -1256127495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_67"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 220
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23353af098c0acd4a946e623dfbdbbf7
+      internalID: -1987109532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_68"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 220
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac65bb4dad6a9b45be6520d3e93a89d
+      internalID: 944483401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_69"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 220
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a8b44a23f0dee41bf7595dd09622d3
+      internalID: -414339582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_70"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 235
+        width: 109
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a69d1ecc44d0684b8b749741dd11cad
+      internalID: -491496987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_71"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 152
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457062d94bea4a44863e05d6d425c88
+      internalID: 1126190588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_72"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 158
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29419cf1b5e9b684e9eca816163fa5e1
+      internalID: -107146778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_73"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 92
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c62777e9935a404fbb69cec2eb53e7a
+      internalID: -893127421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_74"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 151
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30840ff004bf5d94597780c8cce4c7fd
+      internalID: 1760146714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_75"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 99
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14e95131aa39e646a6bcbfbcca26481
+      internalID: 1984592501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_76"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 158
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583101b6e97d65f47ada44e2b9ab75b8
+      internalID: 113898367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_77"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 152
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c8d90c8088a8f4b97a69d2b5f555bc
+      internalID: -602651198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_78"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 158
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56eb2c1a55a2a04d816f2192e8959cf
+      internalID: -1055903234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_79"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 99
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7628c018c15c64a9d6905ecdd65454
+      internalID: 1814287597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_80"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 158
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37992da09e05a5646bc35f0215bc7d4a
+      internalID: -843916671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_81"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 158
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbdd9847511961418005a970946172d
+      internalID: -695972355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_82"
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 99
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c24a862371d8340b15e76b64873eba
+      internalID: -85060081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_83"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 152
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb1bc1ff338ea34fa1f3256e0fd0662
+      internalID: 1853783413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_84"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffc9d849703a064caf5c2b6be7462cf
+      internalID: -18275367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_85"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 99
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48716fd59d640644b8d82b82e720f721
+      internalID: 716733156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_86"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 99
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e087c4980c500944ab23ab0154bd758
+      internalID: -2058534384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_87"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 99
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a74c436a0bcd04aaa2d97f767dffec
+      internalID: 271008437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_88"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aa4591faebad842864de0c56f3df38
+      internalID: -861366782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_89"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 56
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ab3baca4f900e438624e8ea01ca9a9
+      internalID: 586704640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_90"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 49
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d926eb1289263847b8168e009848846
+      internalID: 1833375044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_91"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 56
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f654192de7e8f52489516e3ee1699f4b
+      internalID: 1072776627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_92"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 56
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd433159b203db428762f3bf70c6cc5
+      internalID: 1976268804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_93"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4461706526e4054d960873188ed035f
+      internalID: 1310045226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_94"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 56
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4d2aec008409c4295e6c1d1db80716
+      internalID: 1182062480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_95"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 56
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9636ba32d83fd3a4788ed923aaaa395d
+      internalID: 1676869593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_96"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b78e52bb39e240bbb5661e6bc05fd
+      internalID: 1617842176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_97"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f7f07b49588e94f9b25cd3d044c594
+      internalID: 1825237517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_98"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647c1b7581dc8dc4cb6681beb4461ee9
+      internalID: -540314383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_99"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9569ea6ed80e58743bb605c8a089b0d6
+      internalID: -1242369515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_100"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d8981a0bcc52a479f785a267fe97b5
+      internalID: -1188134974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_101"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c223c7cda79aa43b2071724a4854a6
+      internalID: 1410440683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_102"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fdb337239326a438e3d3c702c0c8e6
+      internalID: -1585289093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_103"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ea6992ced34dd4496be3b825dc79e6
+      internalID: 1071229770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Duck-(\u0111\xE3-c\u1EAFt)_104"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 44
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadafb4a8b407b84bbfd7b4ff2457ec5
+      internalID: -1813097350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Duck-(\u0111\xE3-c\u1EAFt)_0": -1991603469
+      "Duck-(\u0111\xE3-c\u1EAFt)_1": -505431178
+      "Duck-(\u0111\xE3-c\u1EAFt)_10": -371427929
+      "Duck-(\u0111\xE3-c\u1EAFt)_100": -1188134974
+      "Duck-(\u0111\xE3-c\u1EAFt)_101": 1410440683
+      "Duck-(\u0111\xE3-c\u1EAFt)_102": -1585289093
+      "Duck-(\u0111\xE3-c\u1EAFt)_103": 1071229770
+      "Duck-(\u0111\xE3-c\u1EAFt)_104": -1813097350
+      "Duck-(\u0111\xE3-c\u1EAFt)_11": -2029046913
+      "Duck-(\u0111\xE3-c\u1EAFt)_12": 485762461
+      "Duck-(\u0111\xE3-c\u1EAFt)_13": -15766515
+      "Duck-(\u0111\xE3-c\u1EAFt)_14": 301662324
+      "Duck-(\u0111\xE3-c\u1EAFt)_15": 854412972
+      "Duck-(\u0111\xE3-c\u1EAFt)_16": -1510623288
+      "Duck-(\u0111\xE3-c\u1EAFt)_17": -1707710141
+      "Duck-(\u0111\xE3-c\u1EAFt)_18": -1734297751
+      "Duck-(\u0111\xE3-c\u1EAFt)_19": 413424894
+      "Duck-(\u0111\xE3-c\u1EAFt)_2": -663132315
+      "Duck-(\u0111\xE3-c\u1EAFt)_20": -2096060998
+      "Duck-(\u0111\xE3-c\u1EAFt)_21": 1624224467
+      "Duck-(\u0111\xE3-c\u1EAFt)_22": -1899816057
+      "Duck-(\u0111\xE3-c\u1EAFt)_23": 1364970237
+      "Duck-(\u0111\xE3-c\u1EAFt)_24": 1644062906
+      "Duck-(\u0111\xE3-c\u1EAFt)_25": -467708903
+      "Duck-(\u0111\xE3-c\u1EAFt)_26": 743506620
+      "Duck-(\u0111\xE3-c\u1EAFt)_27": -462139089
+      "Duck-(\u0111\xE3-c\u1EAFt)_28": 1672820600
+      "Duck-(\u0111\xE3-c\u1EAFt)_29": 1796904991
+      "Duck-(\u0111\xE3-c\u1EAFt)_3": -1404689881
+      "Duck-(\u0111\xE3-c\u1EAFt)_30": 108821333
+      "Duck-(\u0111\xE3-c\u1EAFt)_31": 1884959925
+      "Duck-(\u0111\xE3-c\u1EAFt)_32": -16081304
+      "Duck-(\u0111\xE3-c\u1EAFt)_33": 1013093821
+      "Duck-(\u0111\xE3-c\u1EAFt)_34": 1832285800
+      "Duck-(\u0111\xE3-c\u1EAFt)_35": -1282203474
+      "Duck-(\u0111\xE3-c\u1EAFt)_36": 1689927311
+      "Duck-(\u0111\xE3-c\u1EAFt)_37": 511948624
+      "Duck-(\u0111\xE3-c\u1EAFt)_38": 1784696039
+      "Duck-(\u0111\xE3-c\u1EAFt)_39": -1208539394
+      "Duck-(\u0111\xE3-c\u1EAFt)_4": -260284409
+      "Duck-(\u0111\xE3-c\u1EAFt)_40": 1368728632
+      "Duck-(\u0111\xE3-c\u1EAFt)_41": 1500620317
+      "Duck-(\u0111\xE3-c\u1EAFt)_42": 14131568
+      "Duck-(\u0111\xE3-c\u1EAFt)_43": 619500185
+      "Duck-(\u0111\xE3-c\u1EAFt)_44": -1175651952
+      "Duck-(\u0111\xE3-c\u1EAFt)_45": -869590479
+      "Duck-(\u0111\xE3-c\u1EAFt)_46": -1589811363
+      "Duck-(\u0111\xE3-c\u1EAFt)_47": -1078231991
+      "Duck-(\u0111\xE3-c\u1EAFt)_48": 170473875
+      "Duck-(\u0111\xE3-c\u1EAFt)_49": 702013514
+      "Duck-(\u0111\xE3-c\u1EAFt)_5": 243136116
+      "Duck-(\u0111\xE3-c\u1EAFt)_50": -1175673493
+      "Duck-(\u0111\xE3-c\u1EAFt)_51": -1228766669
+      "Duck-(\u0111\xE3-c\u1EAFt)_52": 1848844153
+      "Duck-(\u0111\xE3-c\u1EAFt)_53": 249169357
+      "Duck-(\u0111\xE3-c\u1EAFt)_54": -1862283624
+      "Duck-(\u0111\xE3-c\u1EAFt)_55": -1083883009
+      "Duck-(\u0111\xE3-c\u1EAFt)_56": 838156648
+      "Duck-(\u0111\xE3-c\u1EAFt)_57": -1886208354
+      "Duck-(\u0111\xE3-c\u1EAFt)_58": -573159436
+      "Duck-(\u0111\xE3-c\u1EAFt)_59": 1882841171
+      "Duck-(\u0111\xE3-c\u1EAFt)_6": -611153066
+      "Duck-(\u0111\xE3-c\u1EAFt)_60": 2123825353
+      "Duck-(\u0111\xE3-c\u1EAFt)_61": -477992323
+      "Duck-(\u0111\xE3-c\u1EAFt)_62": -1651075225
+      "Duck-(\u0111\xE3-c\u1EAFt)_63": -194955305
+      "Duck-(\u0111\xE3-c\u1EAFt)_64": 1568585922
+      "Duck-(\u0111\xE3-c\u1EAFt)_65": -761603603
+      "Duck-(\u0111\xE3-c\u1EAFt)_66": -1256127495
+      "Duck-(\u0111\xE3-c\u1EAFt)_67": -1987109532
+      "Duck-(\u0111\xE3-c\u1EAFt)_68": 944483401
+      "Duck-(\u0111\xE3-c\u1EAFt)_69": -414339582
+      "Duck-(\u0111\xE3-c\u1EAFt)_7": 1125005738
+      "Duck-(\u0111\xE3-c\u1EAFt)_70": -491496987
+      "Duck-(\u0111\xE3-c\u1EAFt)_71": 1126190588
+      "Duck-(\u0111\xE3-c\u1EAFt)_72": -107146778
+      "Duck-(\u0111\xE3-c\u1EAFt)_73": -893127421
+      "Duck-(\u0111\xE3-c\u1EAFt)_74": 1760146714
+      "Duck-(\u0111\xE3-c\u1EAFt)_75": 1984592501
+      "Duck-(\u0111\xE3-c\u1EAFt)_76": 113898367
+      "Duck-(\u0111\xE3-c\u1EAFt)_77": -602651198
+      "Duck-(\u0111\xE3-c\u1EAFt)_78": -1055903234
+      "Duck-(\u0111\xE3-c\u1EAFt)_79": 1814287597
+      "Duck-(\u0111\xE3-c\u1EAFt)_8": -145124783
+      "Duck-(\u0111\xE3-c\u1EAFt)_80": -843916671
+      "Duck-(\u0111\xE3-c\u1EAFt)_81": -695972355
+      "Duck-(\u0111\xE3-c\u1EAFt)_82": -85060081
+      "Duck-(\u0111\xE3-c\u1EAFt)_83": 1853783413
+      "Duck-(\u0111\xE3-c\u1EAFt)_84": -18275367
+      "Duck-(\u0111\xE3-c\u1EAFt)_85": 716733156
+      "Duck-(\u0111\xE3-c\u1EAFt)_86": -2058534384
+      "Duck-(\u0111\xE3-c\u1EAFt)_87": 271008437
+      "Duck-(\u0111\xE3-c\u1EAFt)_88": -861366782
+      "Duck-(\u0111\xE3-c\u1EAFt)_89": 586704640
+      "Duck-(\u0111\xE3-c\u1EAFt)_9": 174307088
+      "Duck-(\u0111\xE3-c\u1EAFt)_90": 1833375044
+      "Duck-(\u0111\xE3-c\u1EAFt)_91": 1072776627
+      "Duck-(\u0111\xE3-c\u1EAFt)_92": 1976268804
+      "Duck-(\u0111\xE3-c\u1EAFt)_93": 1310045226
+      "Duck-(\u0111\xE3-c\u1EAFt)_94": 1182062480
+      "Duck-(\u0111\xE3-c\u1EAFt)_95": 1676869593
+      "Duck-(\u0111\xE3-c\u1EAFt)_96": 1617842176
+      "Duck-(\u0111\xE3-c\u1EAFt)_97": 1825237517
+      "Duck-(\u0111\xE3-c\u1EAFt)_98": -540314383
+      "Duck-(\u0111\xE3-c\u1EAFt)_99": -1242369515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
